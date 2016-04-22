@@ -1,0 +1,17 @@
+body {
+background: black;
+}
+
+main {
+  font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
+  color: white;
+  width: 33%;
+  height:75%;
+  font-size: 18px;
+  margin: 5px;
+  padding:10px;
+}
+
+h1, h3, h4 {
+text-align: center;
+}
